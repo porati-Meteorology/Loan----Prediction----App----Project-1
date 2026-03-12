@@ -14,4 +14,4 @@ Possible improvements for this project include:
 
 For the Proffesion category , more proffesions should be catered for especilly businesses
 
-  Alpha Dreamers Banking Consortium offers loans, savings, and checking accounts. To tackle rising personal loan defaults, a new BI unit was launched to analyze data, clean it for machine learning, build a logistic regression model, and evaluate performance to improve lending decisions.
+ 
