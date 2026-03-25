@@ -1,4 +1,4 @@
-# Loan Prediction App for Project-1
+# Project 1 : Loan Prediction App 
 
 This project is a Machine Learning web application that predicts the default risk of a loan applicant  based on several  features. The application demonstrates the complete workflow of a Data Science and Machine Learning project, from data preprocessing and model training to deploying the model as an interactive web application.
 
@@ -12,6 +12,6 @@ The deployed application can be accessed here: https://loan----prediction----app
 
 Possible improvements for this project include:
 
-For the Proffesion category , more proffesions should be catered for especilly businesses
+For the Proffesion category , more proffesions should be catered for especilly businesses. 
 
  
